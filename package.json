@@ -1,0 +1,29 @@
+{
+  "name": "nextjs-app",
+  "version": "1.0.0",
+  "description": "A NextJS Application",
+  "main": "index.js",
+  "scripts": { 
+    "dev": "next"
+  }
+}
+
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lorilewis"
+  },
+  "author": "Lori Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorilewis/nextjs-app/issues"
+  },
+  "homepage": "https://github.com/lorilewis/nextjs-app#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
